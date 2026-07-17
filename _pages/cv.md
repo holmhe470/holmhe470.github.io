@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Physics (Condensed Matter), GitHub University, Sep. 2024 - Jun. 2027 (expected)
+* M.S. in Physics (Condensed Matter), Shenzhen University, Sep. 2024 - Jun. 2027 (expected)
 * B.S. in Applied Physics, Chengdu University of Technology, Oct. 2020 - Jun. 2024
 
 Work experience
